@@ -1,6 +1,6 @@
 # ZEDEM Audio Downloader
 
-Welcome to the ZEDEM Audio Downloader project! This Java FX application enables citizens from planet ZEDEM to download their favorite audio files from a central server using the ZEDEM protocol.
+Welcome to the ZEDEM Audio Downloader project! This Java FX application enables citizens from planet ZEDEM to download their favorite audio files from a central server using the custom made ZEDEM protocol.
 
 ## Project Overview
 
